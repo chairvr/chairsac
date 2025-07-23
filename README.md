@@ -1,0 +1,1 @@
+like all of this is from https://github.com/FreakyUnity/moddedanimalcompany/tree/main but my version dont got stash or any of that shit so i think i need to make this. i didnt ask for permission from him to do this but its a public repo so idk, thanks.
